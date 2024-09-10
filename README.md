@@ -1,7 +1,7 @@
-[![MasterHead](https://i.gifer.com/WwUV.gif)](https://rishavchanda.io)
-<h1 align="right">Hi 👋, I'm yasi</h1>
-<h3 align="center">Passionate about AI for healthcare and generating musical compositions using deep learning techniques.</h3>
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/WwUV.gif">
+[![MasterHead]([https://i.gifer.com/WwUV.gif](https://64.media.tumblr.com/25def90fa470d2acd9f1e8f32e883383/tumblr_mttyeaoDhI1shpedgo1_500.gif))](https://rishavchanda.io)
+<h1 align="left">Hi 👋, I'm yasi</h1>
+<h3 align="left">Passionate about AI for healthcare and generating musical compositions using deep learning techniques.</h3>
+<img align="center" alt="Coding" width="400" src="[https://i.gifer.com/WwUV.gif](https://64.media.tumblr.com/25def90fa470d2acd9f1e8f32e883383/tumblr_mttyeaoDhI1shpedgo1_500.gif)">
 
 - 🔭 I’m currently working on **Detecting psychiatric disorders through EEG signals using deep learning techniques.**
 
