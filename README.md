@@ -1,6 +1,5 @@
 <h1 align="left">Hi 👋, I'm yasi</h1>
 <h3 align="left">Passionate about AI for healthcare and generating musical compositions using deep learning techniques.</h3>
-![tumblr_mttyeaoDhI1shpedgo1_500](https://github.com/user-attachments/assets/1d7ec7fe-a068-4684-8004-bfe4e7da2cfa)
 
 - 🔭 I’m currently working on **Detecting psychiatric disorders through EEG signals using deep learning techniques.**
 
