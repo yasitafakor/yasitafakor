@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm yasi</h1>
+[![MasterHead](https://i.gifer.com/WwUV.gif)](https://rishavchanda.io)
+<h1 align="right">Hi 👋, I'm yasi</h1>
 <h3 align="center">Passionate about AI for healthcare and generating musical compositions using deep learning techniques.</h3>
+<img align="right" alt="Coding" width="400" src="https://i.gifer.com/WwUV.gif">
 
 - 🔭 I’m currently working on **Detecting psychiatric disorders through EEG signals using deep learning techniques.**
 
