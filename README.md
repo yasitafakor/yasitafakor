@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **Detecting psychiatric disorders through EEG signals using deep learning techniques.**
 
-- 🌱 I’m currently learning **how to implement reinforcement learning in the stock market.**
-
 - 👯 I’m always looking to collaborate on **innovative machine learning and deep learning projects.**
 
 - 📫 How to reach me **yasamintafakor@gmail.com**
